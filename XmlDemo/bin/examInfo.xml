@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><exam>
+	<student examid="222" idcard="111">
+		<name>张三</name>
+		<location>北京</location>
+		<grade>89</grade>
+	</student>
+
+	<student examid="223" idcard="112">
+		<name>李四</name>
+		<location>天津</location>
+		<grade>88</grade>
+	</student>
+	
+<student examid="124" idcard="521"><name>肖川</name><location>北京</location><grade>123.0</grade></student><student examid="1121" idcard="1234"><name>Lesile</name><location>成都</location><grade>99.0</grade></student><student examid="1121" idcard="1234"><name>Lesile</name><location>成都</location><grade>99.0</grade></student><student examid="1121" idcard="1234"><name>Lesile</name><location>成都</location><grade>99.0</grade></student></exam>
